@@ -1,9 +1,5 @@
 # Gender_Predictor
 A simple gender predictor using a Decision Tree Classifier trained on height, weight, and shoe size data.
-# Gender Predictor
-
-A beginner machine learning project that uses a Decision Tree Classifier 
-to predict gender based on physical attributes.
 
 ## Features
 - Trains a decision tree model on labeled sample data
